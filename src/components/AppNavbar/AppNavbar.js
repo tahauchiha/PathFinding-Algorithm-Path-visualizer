@@ -32,7 +32,7 @@ const AppNavbar = (props) => {
         <Collapse isOpen={isOpen} navbar>
           <Nav  navbar>
             <NavItem id={"Tooltip-" + 6}>
-              <NavLink href="https://github.com/chakshu71/PathFinding-Algorithm-Path-visualizer.git" target='_blank'>GitHub</NavLink>
+              <NavLink href="https://github.com/tahauchiha/PathFinding-Algorithm-Path-visualizer" target='_blank'>GitHub</NavLink>
             </NavItem>
             <UncontrolledDropdown nav inNavbar>
               <DropdownToggle id={"Tooltip-" + 5} nav caret>
